@@ -19,3 +19,7 @@ There was an additional ask to see if was possible to calculate the total number
 Furthermore, we also wanted to add the assumption that partridge in a pear tree counted as 2 presents and work out how to account for that.
 
 Recording of session and live coding will be availble on NHSR youtube channel
+
+## Dependancies
+
+All code is base R apart from use of English function to convert numbers to words
